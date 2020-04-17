@@ -19,7 +19,7 @@ header {
 
 main {
   display: flex;
-  flex-flow: column wrap;
+  flex-flow: row wrap;
   justify-content: center;
   align-items: stretch;
   background-color: #92C9D5;
@@ -28,8 +28,8 @@ main {
 }
 
 .item {
-  height: 100px;
-  /*width: 100px;*/
+  /*height: 100px;*/
+  width: 100px;
   margin: 5px;
   background-color: #fcf2ec;
 }

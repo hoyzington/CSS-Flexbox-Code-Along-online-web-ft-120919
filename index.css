@@ -28,7 +28,7 @@ main {
 }
 
 .item {
-  /*height: 100px;*/
+  height: 100px;
   width: 100px;
   margin: 5px;
   background-color: #fcf2ec;
